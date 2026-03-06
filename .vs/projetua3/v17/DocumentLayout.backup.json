@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\utils\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:utils\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\utils\\inputparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:utils\\inputparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\utils\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:utils\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\ui\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:ui\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\ui\\console\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:ui\\console\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\infrastructure\\accountjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:infrastructure\\accountjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\domain\\entities\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:domain\\entities\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\domain\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:domain\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\infrastructure\\repositories\\fileaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:infrastructure\\repositories\\fileaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\domain\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:domain\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\infrastructure\\logging\\filetransactionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:infrastructure\\logging\\filetransactionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\infrastructure\\fraud\\basicfrauddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:infrastructure\\fraud\\basicfrauddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\domain\\interfaces\\itransactionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:domain\\interfaces\\itransactionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\domain\\interfaces\\ifrauddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:domain\\interfaces\\ifrauddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\domain\\exceptions\\insufficientfundsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:domain\\exceptions\\insufficientfundsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\domain\\exceptions\\frauddetectedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:domain\\exceptions\\frauddetectedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\domain\\exceptions\\accountnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:domain\\exceptions\\accountnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|c:\\users\\tania\\onedrive\\bureau\\c# study\\projetua3\\application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168C4CE6-9414-48F2-BBB3-2548FA2496B6}|projetua3.csproj|solutionrelative:application\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\UI\\Console\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Console\\Program.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\UI\\Console\\Program.cs",
+              "RelativeToolTip": "UI\\Console\\Program.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAAAsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:14:40.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\UI\\Console\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "UI\\Console\\ConsoleMenu.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\UI\\Console\\ConsoleMenu.cs",
+              "RelativeToolTip": "UI\\Console\\ConsoleMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:14:22.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Utils\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "Utils\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Utils\\StringExtensions.cs",
+              "RelativeToolTip": "Utils\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:13:56.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputParser.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Utils\\InputParser.cs",
+              "RelativeDocumentMoniker": "Utils\\InputParser.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Utils\\InputParser.cs",
+              "RelativeToolTip": "Utils\\InputParser.cs",
+              "ViewState": "AgIAAGIAAAAALS0twdIWwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:13:27.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Utils\\FileHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Utils\\FileHelper.cs",
+              "RelativeToolTip": "Utils\\FileHelper.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:13:14.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Infrastructure\\AccountJsonConverter.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AccountJsonConverter.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Infrastructure\\AccountJsonConverter.cs",
+              "RelativeToolTip": "Infrastructure\\AccountJsonConverter.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:10:39.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Infrastructure\\Repositories\\FileAccountRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\FileAccountRepository.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Infrastructure\\Repositories\\FileAccountRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\FileAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:07:54.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileTransactionLogger.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Infrastructure\\Logging\\FileTransactionLogger.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Logging\\FileTransactionLogger.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Infrastructure\\Logging\\FileTransactionLogger.cs",
+              "RelativeToolTip": "Infrastructure\\Logging\\FileTransactionLogger.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:06:54.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BasicFraudDetector.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Infrastructure\\Fraud\\BasicFraudDetector.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Fraud\\BasicFraudDetector.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Infrastructure\\Fraud\\BasicFraudDetector.cs",
+              "RelativeToolTip": "Infrastructure\\Fraud\\BasicFraudDetector.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:01:46.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InsufficientFundsException.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Exceptions\\InsufficientFundsException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\InsufficientFundsException.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Exceptions\\InsufficientFundsException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\InsufficientFundsException.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:01:39.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FraudDetectedException.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Exceptions\\FraudDetectedException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\FraudDetectedException.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Exceptions\\FraudDetectedException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\FraudDetectedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:01:25.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Exceptions\\AccountNotFoundException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\AccountNotFoundException.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Exceptions\\AccountNotFoundException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\AccountNotFoundException.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:01:08.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFraudDetector.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Interfaces\\IFraudDetector.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IFraudDetector.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Interfaces\\IFraudDetector.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IFraudDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:00:32.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITransactionLogger.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Interfaces\\ITransactionLogger.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ITransactionLogger.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Interfaces\\ITransactionLogger.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ITransactionLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:00:16.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:00:09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "Domain\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:19:11.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Entities\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Entities\\CurrentAccount.cs",
+              "RelativeToolTip": "Domain\\Entities\\CurrentAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:18:54.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Domain\\Entities\\Account.cs",
+              "RelativeToolTip": "Domain\\Entities\\Account.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:18:11.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Application\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\tania\\OneDrive\\Bureau\\C# study\\projetua3\\Application\\Services\\AccountService.cs",
+              "RelativeToolTip": "Application\\Services\\AccountService.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:15:50.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

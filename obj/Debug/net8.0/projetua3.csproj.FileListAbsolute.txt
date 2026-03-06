@@ -1,0 +1,14 @@
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\obj\Debug\net8.0\projetua3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\obj\Debug\net8.0\projetua3.AssemblyInfoInputs.cache
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\obj\Debug\net8.0\projetua3.AssemblyInfo.cs
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\obj\Debug\net8.0\projetua3.csproj.CoreCompileInputs.cache
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\bin\Debug\net8.0\projetua3.exe
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\bin\Debug\net8.0\projetua3.deps.json
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\bin\Debug\net8.0\projetua3.runtimeconfig.json
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\bin\Debug\net8.0\projetua3.dll
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\bin\Debug\net8.0\projetua3.pdb
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\obj\Debug\net8.0\projetua3.dll
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\obj\Debug\net8.0\refint\projetua3.dll
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\obj\Debug\net8.0\projetua3.pdb
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\obj\Debug\net8.0\projetua3.genruntimeconfig.cache
+C:\Users\tania\OneDrive\Bureau\C# study\projetua3\obj\Debug\net8.0\ref\projetua3.dll
